@@ -11,3 +11,4 @@ It will cover doing roughly the following:
 - Continuous integration via GitHub actions
 - Fully automated tested with high coverage unit tests and higher level tests
 - Using modern libraries, architectures and design decisions
+- this goes away
